@@ -1,2 +1,3 @@
 # Repo1demo
-for learning github
+for learning GitHub
+author -shruti 
